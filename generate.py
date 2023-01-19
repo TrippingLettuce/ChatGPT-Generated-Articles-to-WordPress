@@ -2,7 +2,7 @@ import os
 import openai
 
 #openai.organization = ""
-openai.api_key = "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"
+openai.api_key = "Open AI API KEY"
 model_engine = "text-davinci-003"
 
 prompt = "What is 10 + 9" #Will be an import
