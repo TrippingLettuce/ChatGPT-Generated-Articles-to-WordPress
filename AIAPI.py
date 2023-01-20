@@ -2,7 +2,7 @@ import os
 import openai
 
 #openai.organization = ""
-openai.api_key = "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"
+openai.api_key = "sk-KEY"
 model_engine = "text-davinci-003"
 
 def article_block_generate(prompt:str)->str:
