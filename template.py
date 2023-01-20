@@ -10,8 +10,8 @@ article_block_content = AIAPI.article_block_generate(prompt)
 article_title = AIAPI.article_title_generate(title_prompt)
 
 ROOT = 'https://lettuce.website'
-user = 'StrongG'
-password = 'M8du o5mb 7EiZ Rg0K y7Fu fRl3'
+user = 'Username'
+password = 'Password'
 headers = {'Content-Type': 'application/x-www-form-urlencoded'}
 
 #Generate a Header
