@@ -1,6 +1,7 @@
 # ChatGPT_Generated_Articles_to_WordPress
 
-Currently being used to auto generate and publish travel articles.  
+Currently being used to auto generate and publish travel articles with images.
+
 Def going to make it do something more intesting when I finish.
 
 
