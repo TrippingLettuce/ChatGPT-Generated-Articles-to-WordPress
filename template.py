@@ -1,17 +1,36 @@
 import requests
 import AIAPI
 import imgAPI
+import promtGen
 
-
-place = "Place"
+# Initalizing, location, title to write article about
+place = promtGen.pop() #Gets first location from top 1000 locations and deletes it
 prompt = f"Generate a travel guild about {place}"
 title_prompt = f"Generate a travel guild title for {place}"
-img_prompt = f"{place} trip"
+
+#Each paragraph has one img 
+#Par 1 (Talks about the actual travel guild)
+img_prompt_1 = f"{place} trip"
+article_block_content_1 = AIAPI.article_block_generate(prompt)
+img1 = imgAPI.get_img(img_prompt_1)
+
+#Par 2 (Talks about festivals and events)
+img_prompt_2 = f"{place}"
+prompt_1 = f"I have this travel article can you write an adtional section for the events/festivals at {prompt} 300 words. This is what I have so far{article_block_content_1}"
+addtion_block_prompt_2 = AIAPI.article_block_generate(prompt_1)
+img2 = imgAPI.get_img(img_prompt_2)
+
+#Par 3 (Talks about location and food)
+img_prompt_3 = f"{place} food"
+prompt_2 = f"I have this travel article can you write an adtional section for the location and food at {prompt} 300 words. This is what I have so far{article_block_content_1}"
+addtion_block_prompt_3 = AIAPI.article_block_generate(prompt_2)
+img3 = imgAPI.get_img(img_prompt_3)
 
 
-article_block_content = AIAPI.article_block_generate(prompt)
+#
+article_block = f'<img src={img1} width="900" height="400" />{article_block_content_1}<img src={img2} width="900" height="400" />{addtion_block_prompt_2}<img src={img3} width="900" height="400" />{addtion_block_prompt_3}'
 article_title = AIAPI.article_title_generate(title_prompt)
-img = imgAPI.get_img(img_prompt)
+
 
 
 ROOT = 'https://website.com'
