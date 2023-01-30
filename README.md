@@ -9,7 +9,7 @@ Word press REST API for python doesnt have the ability to post the IMG as a feat
 All featured IMG plugins either have a pay wall or outdated the best way to fix this is FTP
 Using the php script below and following the steps from gavickPro you can insert this fucntion in a wordPress theme.
 https://www.gavick.com/blog/wordpress-automatically-set-post-featured-image
-
+*It can possibly break your website use test site or child site to test*
 
 ```php
 function wpsites_auto_set_featured_image() {
