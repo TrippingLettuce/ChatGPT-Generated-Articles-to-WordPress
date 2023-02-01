@@ -1,7 +1,11 @@
 # ChatGPT_Generated_Articles_to_WordPress
+Currently set to generate articles with 3 images from prompt and 3 text blocks (200-500) words long.
+Can be easly configured in template.py  
+Taking prompts (Locations) in from loc.txt
 Using OpenAI and Bing API.
-Currently set to generate 1000 travel articles that include, 3 images and 3 text blocks.
-Can be forked or configured to do more or less.
+
+## Set Up 
+Everything 
 
 
 ## Featured IMG
