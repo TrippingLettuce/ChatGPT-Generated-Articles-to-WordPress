@@ -5,8 +5,24 @@ Taking prompts (Locations) in from loc.txt
 Using OpenAI and Bing API.
 
 ## Set Up 
-Everything 
+Installs
+- python 
+- Pip openai
+- Pip bing
 
+In template.py add wordpress API
+```python
+ROOT = 'https://website.com' #Your Website
+user = 'Username' #Your Username
+password = 'Password' #Application Password
+#Password Section User>Profile>Add New Password Name
+```
+
+In AIAPI.py add OpenAI API
+```python
+openai.api_key = "sk-KEY" #OpenAI key
+model_engine = "text-davinci-003" #model
+```
 
 ## Featured IMG
 Word press REST API for python doesnt have the ability to post the IMG as a featured IMG.
