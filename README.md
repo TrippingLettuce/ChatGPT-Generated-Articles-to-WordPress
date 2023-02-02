@@ -51,3 +51,15 @@ function wpsites_auto_set_featured_image() {
 }
 add_action('save_post', 'wpsites_auto_set_featured_image');
 ```
+
+### Other Option 
+This plug in works but needs to be updated to set featured img
+https://wordpress.org/plugins/auto-featured-image-from-title/
+
+## Block Error
+Block Error Try this
+```python
+article_block = f'<p>{article_block_content_1}</p><figure class="wp-block-image"><img src="{img1}" alt=""/></figure><p>{addtion_block_prompt_2}</p><figure class="wp-block-image"><img src="{img2}" alt=""/></figure><p>{addtion_block_prompt_3}</p><figure class="wp-block-image"><img src="{img3}" alt=""/></figure><p>{addtion_block_prompt_4}</p>'
+```
+Source: https://wordpress.com/support/wordpress-editor/block-error-unexpected-or-invalid-content/
+
