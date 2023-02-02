@@ -63,7 +63,7 @@ article_block = f'<p>{article_block_content_1}</p><figure class="wp-block-image"
 ```
 Source: https://wordpress.com/support/wordpress-editor/block-error-unexpected-or-invalid-content/
 
-##Featrued IMG Still not working 
+## Featrued IMG Still not working 
 
 Add in functions.php
 ```php
