@@ -63,3 +63,10 @@ article_block = f'<p>{article_block_content_1}</p><figure class="wp-block-image"
 ```
 Source: https://wordpress.com/support/wordpress-editor/block-error-unexpected-or-invalid-content/
 
+##Featrued IMG Still not working 
+
+Add in functions.php
+```php
+add_theme_support( 'post-thumbnails');
+```
+Source: https://kinsta.com/blog/wordpress-featured-image-not-showing/#fixing-a-featured-image-problem-because-of-lazy-loading
