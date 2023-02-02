@@ -26,6 +26,8 @@ prompt_2 = f"I have this travel article can you write an adtional section for th
 addtion_block_prompt_3 = AIAPI.article_block_generate(prompt_2)
 img3 = imgAPI.get_img(img_prompt_3)
 
+prompt_4 = f"Write a conclusion on why to travel to {place} as a travel article"
+addtion_block_prompt_4 = AIAPI.article_block_generate(prompt_4)
 
 #
 article_block = f'<img src={img1} width="900" height="400" />{article_block_content_1}<img src={img2} width="900" height="400" />{addtion_block_prompt_2}<img src={img3} width="900" height="400" />{addtion_block_prompt_3}'
@@ -45,6 +47,9 @@ data = {
     'status' : 'draft' #or publish 
     }
 #template if theme
+#'date'   : '2023-02-02T12:00:00' (Future Date)
+#
+
 
 #/posts for post, /page for new page, /posts/id for update and del post
 r = requests.post(url= ROOT + '/wp-json/wp/v2/posts', data=data, headers=headers, auth=(user, password))
