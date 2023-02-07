@@ -7,7 +7,7 @@ Using OpenAI and Bing API.
 ## Set Up 
 Installs
 - python 
-- Pip openai
+- `pip install openai`
 - Pip bing
 
 In template.py add wordpress API
