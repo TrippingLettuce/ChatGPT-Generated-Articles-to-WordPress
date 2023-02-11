@@ -8,7 +8,8 @@ Using OpenAI and Bing API.
 Installs
 - python 
 - `pip install openai`
-- Pip bing
+- `pip install bing-image-downloader`
+
 
 In template.py add wordpress API
 ```python
