@@ -9,12 +9,14 @@ Using OpenAI and Bing API.
 ![Example1111](https://user-images.githubusercontent.com/82426784/229942039-84726e31-52e0-49eb-b007-ccde7c607070.png)
 
 
-## Set Up 
-Installs
+
+## Installs
 - python 
 - `pip install openai`
 - `pip install bing_image_urls`
 
+## Set Up (Single Template)
+For posting to a blog with no subcategories 
 
 In template.py add wordpress API
 ```python
@@ -29,6 +31,10 @@ In AIAPI.py add OpenAI API
 openai.api_key = "sk-KEY" #OpenAI key
 model_engine = "text-davinci-003" #model
 ```
+
+## Set Up (Multiple Template) 
+Blog with subcategories (Example Picture Above)
+
 
 ## Featured IMG
 Word press REST API for python doesnt have the ability to post the IMG as a featured IMG.
