@@ -4,6 +4,11 @@ Can be easly configured in template.py
 Taking prompts (Locations) in from loc.txt
 Using OpenAI and Bing API.
 
+
+## Example Website that uses this repo
+![Example1111](https://user-images.githubusercontent.com/82426784/229942039-84726e31-52e0-49eb-b007-ccde7c607070.png)
+
+
 ## Set Up 
 Installs
 - python 
