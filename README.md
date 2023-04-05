@@ -35,6 +35,20 @@ model_engine = "text-davinci-003" #model
 ## Set Up (Multiple Template) 
 Blog with subcategories (Example Picture Above)
 
+In AIAPI.py add model_engine and OpenAI Key
+```
+openai.api_key = "sk-Key"
+model_engine = "text-davinci-003" # model
+```
+
+Each subcategory is displayed in multiple_template folder as contating a text file and a py file for generating article and posting it to wordpress
+
+Each subcategory in is sent to a diffrent RestAPI link instead of just 'blog'
+Exampel for hotels.py:
+`r = requests.post(url= ROOT + '/wp-json/wp/v2/hotel', data=data, headers=headers, auth=(user, password))`
+To find the end of each subcategory the /wp-json/ is located in your post section in wordpress
+
+Main.py is set on loop for posting a blog to each category every 5 hours. But if your running on servers use cron to avoid errors.
 
 ## Featured IMG
 Word press REST API for python doesnt have the ability to post the IMG as a featured IMG.
