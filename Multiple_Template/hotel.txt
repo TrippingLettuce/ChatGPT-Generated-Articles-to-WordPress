@@ -1,0 +1,259 @@
+The Fairmont Banff Springs (Canada)
+The Fairmont Palliser (Calgary, Canada)
+Fairmont Le Manoir Richelieu (Charlevoix, Quebec, Canada)
+The Fairmont Hotel MacDonald (Edmonton, Alberta, Canada)
+The Fairmont Jasper Park Lodge (Jasper, Alberta, Canada)
+The Fairmont Chateau Lake Louise (Lake Louise, Alberta, Canada)
+Fairmont Tremblant (Tremblant, Quebec, Canada)
+Fairmont Le Chateau Montebello (Montebello, Quebec, Canada)
+Fairmont the Queen Elizabeth (Montreal, Quebec, Canada)
+Fairmont Le Chateau Frontenac (Quebec City, Quebec, Canada)
+The Fairmont Royal York Hotel (Toronto, Ontario, Canada)
+Fairmont Pacific Rim (Vancouver, British Columbia, Canada)
+The Fairmont Hotel Vancouver (Vancouver, British Columbia, Canada)
+The Fairmont Vancouver Airport (Vancouver, British Columbia, Canada)
+The Fairmont Waterfront (Vancouver, British Columbia, Canada)
+The Fairmont Empress (Victoria, British Columbia, Canada)
+The Fairmont Chateau Whistler (Whistler, British Columbia, Canada)
+The Fairmont Winnipeg (Winnipeg, Manitoba, Canada)
+The Fairmont Copley Plaza (Boston, Massachusetts, USA)
+Fairmont Chicago (Chicago, Illinois, USA)
+The Fairmont Dallas (Dallas, Texas, USA)
+The Fairmont Orchid (Waikoloa, Hawai'i, USA)
+The Fairmont Kea Lani (Mau'i, Hawai'i, USA)
+The Plaza (New York, New York, USA)
+Fairmont Newport Beach (Newport Beach, California, USA)
+Fairmont Pittsburgh (Pittsburgh, Pennsylvania, USA)
+Fairmont Heritage Place Ghiradelli Square (San Francisco, California, USA)
+The Fairmont San Francisco (San Francisco, California, USA)
+The Fairmont San Jose (San Jose, California, USA)
+El Corazon De Santa Fe (Santa Fe, New Mexico, USA)
+Fairmont Miramar Hotel & Bungalows (Santa Monica, California, USA)
+Fairmont Scottsdale Princess (Scottsdale, Arizona, USA)
+The Fairmont Olympic Hotel (Seattle, Washington, USA)
+The Fairmont Sonoma Mission Inn & Spa (Sonoma, California, USA)
+Fairmont Franz Klammer Lodge (Telluride, Colorado, USA)
+Fairmont Washington DC (Georgetown, USA)
+The Fairmont Acapulco Princess (Acapulco, Mexico)
+Fairmont Pierre Marques (Acapulco, Mexico)
+The Fairmont Royal Pavilion (Barbados)
+The Fairmont Hamilton Princess (Hamilton, Bermuda)
+The Fairmont Southampton (Southampton, Bermuda)
+Fairmont Mayakoba (Riviera Maya, Mexico)
+Fairmont Baku (Baku, Azerbaijan)
+Fairmont Beijing (Beijing, China)
+Fairmont Jaipur (Jaipur, India)
+Fairmont Jakarta (Jakarta, Indonesia)
+Fairmont Yangcheng Lake (Kunshan, China)
+Fairmont Makati (Manila, Phillipines)
+Fairmont Nanjing (Nanjing, China)
+Fairmont Peace Hotel (Shanghai, China)
+Fairmont Singapore (Singapore)
+Fairmont Rey Juan Carlos I (Barcelona, Spain)
+Fairmont Hotel Vier Jahreszeiten (Hamburg, Germany)
+Fairmont Grand Hotel Kyiv (Kiev, Ukraine)
+The Savoy (London, United Kingdom)
+Fairmont Monte Carlo (Monte Carlo, Monaco)
+Fairmont Le Montreux Palace (Montreux, Switzerland)
+Fairmont St Andrews (St Andrews, Scotland)
+Fairmont Bab Al Bahr (Abu Dhabi)
+Fairmont Ajman (United Arab Emirates)
+Fairmont Heliopolis (Cairo, Egypt)
+Fairmont Nile City (Cairo, Egypt)
+Fairmont Towers Heliopolis (Cairo, Egypt)
+Fairmont Dubai (Dubai)
+Fairmont the Palm (Dubai)
+Fairmont Makkah Clock Royal Tower (Makkah, Saudi Arabia)
+Fairmont Mara Safari Club (Masai Mara, Kenya)
+Fairmont the Norfolk (Nairobi, Kenya)
+Fairmont Zimbali Lodge (Durban, South Africa)
+Fairmont Zimbali Resort (Durban, South Africa)
+Fairmont New Orleans (New Orleans, LA, USA) - Former Property
+Fairmont Battery Wharf (Boston, Massachusetts, USA) - Former Property
+Fairmont Turnberry Isle (Aventura, Florida, USA) - Former Property
+Fairmont Algonquin (St Andrews by the Sea, New Brunswick, Canada) - Former Property
+Fairmont Newfoundland (St John's, Newfoundland, Canada) - Former Property
+Aria Resort & Casino Las Vegas
+Bally's Las Vegas
+Bellagio
+Caesar's Palace Hotel & Casino (Las Vegas, NV)
+California Hotel and Casino
+Casino Royale Hotel & Casino
+Circus Circus Las Vegas
+The Cosmopolitan of Las Vegas
+Cromwell Hotel
+Delano Las Vegas
+The D Las Vegas
+Downtown Grand Las Vegas
+El Cortez Hotel and Casino
+Encore Las Vegas
+Excalibur Hotel and Casino
+Flamingo Las Vegas
+Four Seasons Hotel Las Vegas
+Four Queens
+Fremont Hotel
+Golden Nugget Hotel & Casino
+Green Valley Ranch Resort, Spa & Casin
+Hard Rock Hotel and Casino Las Vegas
+Harrah's Hotel and Casino
+Hooter's Casino Hotel
+LINQ Hotel & Casino
+Lucky Dragon Las Vegas
+Luxor Hotel & Casino
+Main Street Station Hotel
+Mandarin Oriental, Las Vegas
+Mandalay Bay Resort & Casino
+MGM Grand Hotel & Casino, Las Vegas
+Mirage Las Vegas
+Monte Carlo
+New York New York Las Vegas
+Orleans Las Vegas
+Palazzo Resort Hotel Casino
+The Palms Casino Resort
+Paris Las Vegas
+Planet Hollywood Hotel and Casino
+Plaza Las Vegas
+Red Rock Casino, Resort and Spa
+Rio Las Vegas
+Sam's Town Las Vegas
+SLS Las Vegas
+Stratosphere Las Vegas
+Treasure Island
+Tropicana Hotel & Casino
+Vdara Hotel & Spa
+Venetian Resort Hotel Casino
+Wynn Las Vegas
+Raffles Hotel, Singapore
+Plaza Hotel, New York
+Hotel Du Cap Eden Roc
+Chateau Marmont, Los Angeles - United States
+Hôtel George V, Paris - France
+Copacabana Palace, Rio De Janeiro - Brazil
+Grandhotel Pupp, Karlovy Vary - Czech Republic
+The Biltmore, Los Angeles - United States
+The Beverly Hills, Beverly Hills - United States
+The Dolder Grand, Zurich - Switzerland
+The King David, Jerusalem - Israel
+The Gellért, Budapest - Hungary
+Mount Nelson Hotel, Cape Town - South Africa
+The Dorchester, London - England
+The Mayflower, Washington DC - United States
+The Oriental, Bangkok - Thailand
+The Palace, StMoritz - Switzerland
+The Peninsula, Hong Kong
+Grand Hotel Tremezzo, Lake Como - Italy
+Hotel De Paris, Monte Carlo - Monaco
+Hôtel De Crillon, Paris - France
+Gritti Palace, Venice - Italy
+Belmond Hotel Splendido, Portofino - Italy
+Hotel Vier Jahreszeiten, München - Germany
+Hotel Adlon Kempinski Berlin
+Waldorf Astoria, New York
+Atlantis the Palm, Dubai - UAE
+Marina Bay Sands, Singapore
+Ritz-Carlton, Hong Kong
+St.Regis, New York - USA
+The Fountainebleau Miami - United States
+The Royal Hawaiian, Honolulu
+The Grand Hotel, Mackinac Island - United States
+Hotel Grande Bretagne, Athens - Greece
+Burj Al Arab, Dubai - UAE
+Hotel Katikies, Santorini - Greece
+Hotel Four Seasons Firenze - Italy
+Gstaad Palace - Switzerland
+The Algonquin, StAndrews - Canada
+American Colony, Jerusalem - Israel
+Amstel, Amsterdam - Netherlands
+Ashford Castle, Cong - Ireland
+The Banff Springs, Banff, Canada
+Beau-Rivage Palace, Lausanne - Switzerland
+The Beverly Hills, Beverly Hills - United States
+The Biltmore, Los Angeles - United States
+Brown's, London - England
+The Château Lake Louise, Lake Louise - Canada
+The Château Laurier, Ottawa - Canada
+Chateau Marmont, Los Angeles - United States
+Claridge's, London - England
+Copacabana Palace, Rio De Janeiro - Brazil
+The Dolder Grand, Zurich - Switzerland
+The Dorchester, London - England
+The Drake, Chicago - United States
+Eastern & Oriental, Penang - Malaysia
+The Empress, Victoria - Canada
+The Fairmont, San Francisco - United States
+The Fort Garry, Winnipeg - Canada
+The Gellért, Budapest - Hungary
+Grand Hotel Europe, StPetersburg - Russia
+Grand Hotel Royal, Budapest - Hungary
+Grand Hotel Tremezzo, Lake Como - Italy
+The Grand, Stockholm - Sweden
+Grandhotel Pupp, Karlovy Vary - Czech Republic
+Gritti Palace, Venice - Italy
+Hotel Alfonso XIII, Seville - Spain
+Hotel Bayerischer Hof, Munich - Germany
+Hôtel De Crillon, Paris - France
+Hotel De Paris, Monte Carlo - Monaco
+Hotel Del Cornado, San Diego - United States
+Hotel Du Cap-Eden-Roc, Côte D'Azur - France
+Hôtel George V, Paris - France
+Hotel Grande Bretagne, Athens - Greece
+Hotel Imperial, Vienna - Austria
+Hôtel Lutetia, Paris - France
+Hotel Metropole, Brussels - Belgium
+Hotel Metropole, Hanoi - Vietnam
+Hotel Metropole, Monte Carlo - Monaco
+Hotel Monteleone, New Orleans - United States
+Hôtel Plaza Athénée, Paris - France
+Hotel Sacher, Vienna - Austria
+The Hotel Saskatchewan, Regina - Canada
+Hotel Splendide Royal, Lugano - Switzerland
+The Hotel Vancouver, Vancouver - Canada
+Hotel Windsor, Melbourne - Australia
+Hotel Yak & Yeti, Kathmandu - Nepal
+The King David, Jerusalem - Israel
+The Langham, London - England
+Le Château Frontenac, Quebec City - Canada
+Le Grand, Paris - France
+Le Meurice, Paris - France
+Le Pavillon Hotel, New Orleans - United States
+L'hotel, Paris - France
+La Mamounia, Marrakech - Morocco
+The Lord Elgin, Ottawa - Canada
+The Lord Nelson, Halifax - Canada
+The MacDonald, Edmonton - Canada
+The Mayflower, Washington DC - United States
+The Midland, Manchester - England
+Mount Nelson Hotel, Cape Town - South Africa
+The Nova Scotian, Halifax - Canada
+The Oriental, Bangkok - Thailand
+The Palace, StMoritz - Switzerland
+The Palliser, Calgary - Canada
+Parker House, Boston - United States
+The Peabody, Memphis - United States
+Peace Hotel on the Bund, Shanghai - China
+The Peninsula, Hong Kong
+The Pierre, New York - United States
+The Plaza, New York - United States
+The Prince of Wales, Waterton National Park - Canada
+The Queen Elizabeth, Montreal - Canada
+Raffles Hotel - Singapore
+The Randolph, Oxford - England
+The Ritz, London - England
+The Ritz, Madrid - Spain
+Royal Victoria, Pisa - Italy
+The Royal York, Toronto - Canada
+The Savoy, London - England
+The Shelbourne, Dublin - Ireland
+The StFrancis, San Francisco - Untied States
+StPancras Renaissance, London - England
+The StRegis, New York - United States
+The StRegis, Rome - Italy
+The Stanley, Estes Park - United States
+The Strand, Yangon - Myanmar
+Taj Lake Palace, Udaipur - India
+Taj Mahal, Mumbai - India
+Tokyo Station Hotel, Tokyo - Japan
+Villa D'este, Cernobbio (Lake Como) - Italy
+The Waldorf Astoria, New York - United States
+The Willard, Washington DC - United States
+The William Penn, Pittsburgh - United States

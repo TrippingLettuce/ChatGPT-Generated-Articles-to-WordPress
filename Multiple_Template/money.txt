@@ -1,0 +1,92 @@
+Hanoi	Vietnam	
+Ho Chi Minh City    Vietnam	
+Pattaya-Chonburi	Thailand	
+Phuket	Thailand	
+Samui	Thailand	
+Bangkok	Thailand	
+Krabi	Thailand	
+Chiang Mai	Thailand	
+Delhi	India	
+Cusco	Peru	
+Istanbul	Turkey	
+Antalya	Turkey	
+Rio de Janeiro	Brazil	
+St Petersburg	Russia	
+Kuala Lumpur	Malaysia	
+Mexico City	Mexico	
+Zhuhai	China	
+Lima	Peru	
+Hurghada	Egypt	
+Beijing	China	
+Cancun	Mexico	
+Mecca	Saudi Arabia	
+Playa del Carmen	Mexico	
+Osaka	Japan	
+Busan	South Korea	
+Prague	Czech Republic	
+Marrakech	Morocco	
+Kiev	Ukraine	
+Sapporo	Japan	
+Budapest	Hungary	
+Fukuoka	Japan	
+Taipei	Taiwan	
+Moscow	Russia	
+Porto	Portugal	
+Tokyo	Japan	
+Johannesburg	South Africa	
+Heraklion	Greece	
+Krakow	Poland	
+Athens	Greece	
+Cape Town	South Africa	
+Kyoto	Japan	
+Guangzhou	China	
+Medina	Saudi Arabia	
+Shanghai	China	
+Lisbon	Portugal	
+Tallinn	Estonia	
+Muscat	Oman	
+Thessaloniki	Greece	
+Rhodes	Greece	
+Shenzhen	China	
+Dubai	United Arab Emirates	
+Hong Kong	Hong Kong	
+Riyadh	Saudi Arabia	
+Barcelona	Spain	
+Frankfurt	Germany	
+Vienna	Austria	
+Abu Dhabi	United Arab Emirates	
+Madrid	Spain	
+Berlin	Germany	
+Palma de Mallorca	Spain	
+Rome	Italy	
+Florence	Italy	
+Munich	Germany	
+Venice	Italy	
+Las Vegas	USA	
+Brussels	Belgium	
+Singapore	Singapore	
+Orlando	USA	
+Edinburgh	UK	
+London	UK	
+Amsterdam	Netherlands	
+Marne-La-Valle	France	
+Nice	France	
+Dublin	Ireland	
+Stockholm	Sweden	
+Sydney	Australia	
+Melbourne	Australia	
+Paris	France	
+Verona	Italy	
+Vancouver	Canada	
+Milan	Italy	
+New York City	USA	
+Copenhagen	Denmark	
+Toronto	Canada	
+Honolulu	USA	
+San Francisco	USA	
+Los Angeles	USA	
+Zurich	Switzerland	
+Jerusalem	Israel	
+Doha	Qatar	
+Tel Aviv	Israel	
+Miami	USA	
