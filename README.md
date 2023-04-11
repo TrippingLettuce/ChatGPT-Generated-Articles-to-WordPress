@@ -1,8 +1,14 @@
 # ChatGPT_Generated_Articles_to_WordPress
-Currently set to generate articles with 3 images from prompt and 3 text blocks (200-500) words long.
-Can be easly configured in template.py  
+#### Single Template
+Set to generate articles with 3 images from prompt and 3 text blocks (200-500) words long.
+Can be easily configured in template.py  
 Taking prompts (Locations) in from loc.txt
 Using OpenAI and Bing API.
+
+#### Multiple Template
+Set to generate articles with 3 images from prompt and 3 text blocks (200-500) words long. Into 5 different sub category, all located in blog section. These categories include Tour Guides on Cities, Best Beaches, Best Places for Cheap Money, Most Beautiful Places in the World, Best Hotels on the World.
+
+Make sure to have correct link when using restAPI to send post
 
 
 ## Example Website that uses this repo
@@ -41,10 +47,10 @@ openai.api_key = "sk-Key"
 model_engine = "text-davinci-003" # model
 ```
 
-Each subcategory is displayed in multiple_template folder as contating a text file and a py file for generating article and posting it to wordpress
+Each subcategory is displayed in multiple_template folder as contacting a text file and a py file for generating article and posting it to wordpress
 
-Each subcategory in is sent to a diffrent RestAPI link instead of just 'blog'
-Exampel for hotels.py:
+Each subcategory in is sent to a different RestAPI link instead of just 'blog'
+Example for hotels.py:
 `r = requests.post(url= ROOT + '/wp-json/wp/v2/hotel', data=data, headers=headers, auth=(user, password))`
 To find the end of each subcategory the /wp-json/ is located in your post section in wordpress
 
@@ -53,7 +59,7 @@ Main.py is set on loop for posting a blog to each category every 5 hours. But if
 ## Featured IMG
 Word press REST API for python doesnt have the ability to post the IMG as a featured IMG.
 All featured IMG plugins either have a pay wall or outdated the best way to fix this is FTP
-Using the php script below and following the steps from gavickPro you can insert this fucntion in a wordPress theme.
+Using the php script below and following the steps from gavickPro you can insert this function in a wordPress theme.
 https://www.gavick.com/blog/wordpress-automatically-set-post-featured-image
 *It can possibly break your website use test site or child site to test*
 
